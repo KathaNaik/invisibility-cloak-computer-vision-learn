@@ -60,6 +60,12 @@ This project creates an "invisible cloak" effect using a webcam feed by leveragi
 ## Applications:
 This is a simplified implementation of augmented reality (AR) concepts. It demonstrates techniques used in object detection, background subtraction, and image blending. The techniques in this code have significant applications in filmmaking and videography, particularly for special effects and real-time editing. The use of OpenCV for color detection and masking underpins green screen technology, widely used to replace backgrounds in movies. This enables filmmakers to superimpose actors onto digitally created environments. The "invisible cloak" effect demonstrates object removal and invisibility, valuable for creating sci-fi or fantasy scenes. Real-time processing allows directors to preview effects during shooting, improving on-set decision-making. Background subtraction, achieved by capturing a static background, can isolate subjects for dynamic overlays or scene replacements. Additionally, color-based object detection can guide automated cinematography systems, adjusting lighting or camera focus based on detected elements. These tools not only enhance creative possibilities but also streamline production workflows, enabling seamless integration of visual effects and real-time pre-visualization in modern filmmaking.
 
+## Limitations:
+I was at work when i made this so the only color available to me was my maroon uniform. Had to code in such a way that it reads maroon colors. Thats why it was a little patchy because it was also detecting reds. 
+<img width="1006" alt="image" src="https://github.com/user-attachments/assets/1063c927-cfc1-417b-9df8-cc3ef117f48f" /> 
+
+
+
 
 
 
